@@ -1,9 +1,20 @@
 body {
   text-align: center;
+  background: yellow;
+  font-family: serif;
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: cursive;
+  font-size: 72pt;
+}
+
+h2 {
+  font-size: 48pt;
+}
+
+h3 {
+  font-size: 36pt;
 }
 
 img {
@@ -16,4 +27,9 @@ img {
 
 ul {
   list-style-position: inside;
+  font-style: italic;
+}
+
+a:link, a:visited, a:active {
+  color: black;
 }
