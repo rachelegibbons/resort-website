@@ -1,20 +1,21 @@
 body {
   text-align: center;
-  background: yellow;
-  font-family: serif;
+  background: blue;
+  font-family: sans-serif;
+  color: white;
 }
 
 h1 {
-  font-family: cursive;
-  font-size: 72pt;
+font-family: monospace;
+font-size: 50pt;
 }
 
 h2 {
-  font-size: 48pt;
+  font-size: 30pt;
 }
 
 h3 {
-  font-size: 36pt;
+  font-size: 18pt;
 }
 
 img {
@@ -27,9 +28,8 @@ img {
 
 ul {
   list-style-position: inside;
-  font-style: italic;
 }
 
 a:link, a:visited, a:active {
-  color: black;
+  color: white;
 }
